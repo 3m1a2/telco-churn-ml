@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Models
+models/
+
+# Processed data
+data/processed/
